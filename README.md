@@ -1,7 +1,6 @@
 ### print("Hello World")
 <h4>* Bioengineering student </h4>
-<h4>* I’m currently learning fundamentals of programming</h4>
-<h4>* I’m looking for help with DB (SQL) and java. 📫 </h4>
+<h4>* I’m currently learning data science
 <!--
 **DaFeTaCo/DaFeTaCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
